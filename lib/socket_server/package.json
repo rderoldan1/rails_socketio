@@ -4,7 +4,9 @@
   "description": "Web Socket Server",
   "main": "server.js",
   "dependencies": {
-    "socket.io": "^1.3.5"
+    "socket.io": "^1.3.5",
+    "nodemon": "^1.4.0",
+    "winston": "^1.0.1"
   },
   "devDependencies": {},
   "scripts": {
